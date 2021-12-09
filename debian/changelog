@@ -1,4 +1,10 @@
-seetaface-recognizer (1.0.0-1) unstable; urgency=medium
+seetaface-recognizer (1.0.0.1-1+dde) unstable; urgency=medium
+
+  * Fix build issue
+
+ -- chenlinxuan <chenlinxuan@uniontech.com>  Thu, 09 Dec 2021 19:58:06 +0800
+
+facerecognizer6 (1.0.0-1) unstable; urgency=medium
 
   * Initial release 
 
