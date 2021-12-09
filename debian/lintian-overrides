@@ -1,0 +1,2 @@
+seetaface-recognizer: package-must-activate-ldconfig-trigger usr/lib/libSeetaFaceRecognizer610.so
+seetaface-recognizer: shlib-without-PT_GNU_STACK-section usr/lib/libSeetaFaceRecognizer610.so
